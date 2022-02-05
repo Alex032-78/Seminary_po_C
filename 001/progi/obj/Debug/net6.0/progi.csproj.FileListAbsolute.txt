@@ -1,0 +1,15 @@
+E:\Systems\Desktop\GeekBrains C#\Семинары\001\progi\bin\Debug\net6.0\progi.exe
+E:\Systems\Desktop\GeekBrains C#\Семинары\001\progi\bin\Debug\net6.0\progi.deps.json
+E:\Systems\Desktop\GeekBrains C#\Семинары\001\progi\bin\Debug\net6.0\progi.runtimeconfig.json
+E:\Systems\Desktop\GeekBrains C#\Семинары\001\progi\bin\Debug\net6.0\progi.dll
+E:\Systems\Desktop\GeekBrains C#\Семинары\001\progi\bin\Debug\net6.0\ref\progi.dll
+E:\Systems\Desktop\GeekBrains C#\Семинары\001\progi\bin\Debug\net6.0\progi.pdb
+E:\Systems\Desktop\GeekBrains C#\Семинары\001\progi\obj\Debug\net6.0\progi.csproj.AssemblyReference.cache
+E:\Systems\Desktop\GeekBrains C#\Семинары\001\progi\obj\Debug\net6.0\progi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Systems\Desktop\GeekBrains C#\Семинары\001\progi\obj\Debug\net6.0\progi.AssemblyInfoInputs.cache
+E:\Systems\Desktop\GeekBrains C#\Семинары\001\progi\obj\Debug\net6.0\progi.AssemblyInfo.cs
+E:\Systems\Desktop\GeekBrains C#\Семинары\001\progi\obj\Debug\net6.0\progi.csproj.CoreCompileInputs.cache
+E:\Systems\Desktop\GeekBrains C#\Семинары\001\progi\obj\Debug\net6.0\progi.dll
+E:\Systems\Desktop\GeekBrains C#\Семинары\001\progi\obj\Debug\net6.0\ref\progi.dll
+E:\Systems\Desktop\GeekBrains C#\Семинары\001\progi\obj\Debug\net6.0\progi.pdb
+E:\Systems\Desktop\GeekBrains C#\Семинары\001\progi\obj\Debug\net6.0\progi.genruntimeconfig.cache

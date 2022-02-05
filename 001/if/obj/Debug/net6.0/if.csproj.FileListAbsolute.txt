@@ -1,0 +1,15 @@
+E:\Systems\Desktop\GeekBrains C#\Семинары\001\if\bin\Debug\net6.0\if.exe
+E:\Systems\Desktop\GeekBrains C#\Семинары\001\if\bin\Debug\net6.0\if.deps.json
+E:\Systems\Desktop\GeekBrains C#\Семинары\001\if\bin\Debug\net6.0\if.runtimeconfig.json
+E:\Systems\Desktop\GeekBrains C#\Семинары\001\if\bin\Debug\net6.0\if.dll
+E:\Systems\Desktop\GeekBrains C#\Семинары\001\if\bin\Debug\net6.0\ref\if.dll
+E:\Systems\Desktop\GeekBrains C#\Семинары\001\if\bin\Debug\net6.0\if.pdb
+E:\Systems\Desktop\GeekBrains C#\Семинары\001\if\obj\Debug\net6.0\if.csproj.AssemblyReference.cache
+E:\Systems\Desktop\GeekBrains C#\Семинары\001\if\obj\Debug\net6.0\if.GeneratedMSBuildEditorConfig.editorconfig
+E:\Systems\Desktop\GeekBrains C#\Семинары\001\if\obj\Debug\net6.0\if.AssemblyInfoInputs.cache
+E:\Systems\Desktop\GeekBrains C#\Семинары\001\if\obj\Debug\net6.0\if.AssemblyInfo.cs
+E:\Systems\Desktop\GeekBrains C#\Семинары\001\if\obj\Debug\net6.0\if.csproj.CoreCompileInputs.cache
+E:\Systems\Desktop\GeekBrains C#\Семинары\001\if\obj\Debug\net6.0\if.dll
+E:\Systems\Desktop\GeekBrains C#\Семинары\001\if\obj\Debug\net6.0\ref\if.dll
+E:\Systems\Desktop\GeekBrains C#\Семинары\001\if\obj\Debug\net6.0\if.pdb
+E:\Systems\Desktop\GeekBrains C#\Семинары\001\if\obj\Debug\net6.0\if.genruntimeconfig.cache
